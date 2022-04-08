@@ -1,0 +1,4 @@
+tuan;ha noi;
+hoang;ha noi;1100
+tuan;ha noi;0.0
+hoang;ha noi;1100.0
